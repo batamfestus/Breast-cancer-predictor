@@ -258,7 +258,7 @@ def main():
 
 
     with st.container():
-        st.title("Brest Cancer Predictor")
+        st.title("Breast Cancer Predictor")
         st.write("This app will help in the Diagnosis of breast cancer")
     
     col1, col2 = st.columns([4, 1])
